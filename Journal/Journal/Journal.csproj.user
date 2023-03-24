@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\hisataka\Documents\DB zno\Journal\Journal\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEnglish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMath.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminUkranian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminUserManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cabinet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

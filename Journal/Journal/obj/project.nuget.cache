@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgZOvhGnYGry3uSEibKKhN2X2KWQb0aNyu6mBOLhmh7WM57HygAEF6qJZk6j0BbiWntr6rd4nN7KCgZBe60J+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hisataka\\Documents\\DB zno\\Journal\\Journal\\Journal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hisataka\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\hisataka\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\hisataka\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\hisataka\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\hisataka\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\hisataka\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
